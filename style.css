@@ -93,7 +93,7 @@ h1 {
   background: blue;
 }
 #space .box.obj.e .wall {
-  background: url("https://m-nakasato.github.io/BSoD/wall.jpg") bottom / cover;
+  background: url("wall.jpg") bottom / cover;
 }
 #space .box.obj .top {
   background: black;
